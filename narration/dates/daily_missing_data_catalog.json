@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "created": "2024-11-13T12:54:00.182251",
+    "base_path": "/media/bharxhav/valhalla/NARR/",
+    "variables_processed": [
+      "air",
+      "hgt",
+      "omega",
+      "shum",
+      "tke",
+      "uwnd",
+      "vwnd"
+    ]
+  },
+  "variables": {
+    "air": {},
+    "hgt": {},
+    "omega": {},
+    "shum": {},
+    "tke": {},
+    "uwnd": {},
+    "vwnd": {}
+  },
+  "daily_summary": {}
+}
